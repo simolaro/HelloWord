@@ -1,3 +1,5 @@
+![headshot](20200628_135754.jpg)
+
 # A littee insight into Simon Larocque
 Hi everyone! My name is Simon Larocque and I am learning gitHub
 
